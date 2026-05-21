@@ -34,5 +34,7 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+[prompting_patterns_analysis.pdf](https://github.com/user-attachments/files/28082888/prompting_patterns_analysis.pdf)
+
 
 # RESULT: The prompt for the above said problem executed successfully
